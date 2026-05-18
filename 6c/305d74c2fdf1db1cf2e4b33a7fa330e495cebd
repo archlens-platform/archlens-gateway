@@ -1,0 +1,19 @@
+.github/workflows/ci.yml
+  s_a0fa6aad47139c::t_ff62dcd2ef6343 100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "6c305d74c2fdf1db1cf2e4b33a7fa330e495cebd",
+  "prompts": {},
+  "sessions": {
+    "s_a0fa6aad47139c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "4443b52c-980e-41de-9634-960482344709",
+        "model": "claude-opus-4-7-thinking-xhigh"
+      },
+      "human_author": "Rafael Pereira <66394829+rafahenrique1@users.noreply.github.com>"
+    }
+  }
+}
