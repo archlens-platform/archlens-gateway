@@ -1,0 +1,15 @@
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.pdb
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+TestResults/
+coverage/
